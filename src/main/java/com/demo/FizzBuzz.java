@@ -6,7 +6,7 @@ public class FizzBuzz
 	{	
     	// Copy your code here
 		if (num%3 == 0 && num%5 == 0){
-          return "Fizz Buzz";
+          return "FizzBuzz";
         } else if (num%3 == 0) {
           return "Fizz";
         } else if (num%5 == 0) {
